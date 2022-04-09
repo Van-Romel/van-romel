@@ -8,7 +8,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Van-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Van-Spring" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Van-PostgreSQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Van-PostgreSQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Van-Docker" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="right" alt="Van-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEisQhq7QpUjA/profile-displayphoto-shrink_800_800/0/1648783223268?e=1654732800&v=beta&t=djsDTijTwX0AEWPirFYWc8JW_8zWoa6JalKcb9-34Iw">
 </div>
