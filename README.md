@@ -22,3 +22,7 @@
   <a href="https://www.linkedin.com/in/van-romel-alves-sena-neto-b7323b160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/vanbr013/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
 </div>
+  
+  <br>
+<p align="center"> Number of visits to my profile since April/2022 👀</p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/van-romel/count.svg" /></p>
